@@ -280,7 +280,7 @@ print(f"Predicted ClassId: {prediction}")
 
 ### Proposed Enhancements
 
-1. Dataset Enrichment:
+1. **Dataset Enrichment:**
    - Integrate BelgiumTS and TT100K datasets
    - Enhance generalization across different regions
 
